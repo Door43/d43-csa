@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[csa:home|Door43 (csa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-csa|d43-csa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-csa/archive/master.zip|d43-csa.zip]]
+
+**Recent Changes**
+{{changes>ns = csa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/csa|Ethnologue data]]
+
